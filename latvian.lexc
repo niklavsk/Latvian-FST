@@ -1,4 +1,4 @@
-Multichar_Symbols +N +AR +IDekl +IIDekl +IVDekl +Nom +Dat +Loc @P.AR.ON@ @D.AR@ @R.AR@
+Multichar_Symbols +N +AR +IDekl +IIIDekl +IIDekl +IVDekl +VDekl +VIDekl +Nom +Dat +Loc @P.AR.ON@ @D.AR@ @R.AR@ @P.MIJA.ON@
 
 LEXICON Root
 
@@ -14,23 +14,18 @@ LEXICON Noun
 kok       IDekl;
 sol       IDekl;
 prāt      IDekl;
-
 skap      IIDekl;
 brāl      IIDekl;
 gulb      IIDekl;
-
 med       IIIDekl;
 led       IIIDekl;
 liet      IIIDekl;
-
 māj       IVDekl;
 dien      IVDekl;
 var       IVDekl;
-
 egl       VDekl;
 krūz      VDekl;
 klas      VDekl;
-
 pil       VIDekl;
 sird      VIDekl;
 nakt      VIDekl;
@@ -47,7 +42,7 @@ LEXICON IDekl
 LEXICON IIDekl
 
 @D.AR@+N+IIDekl+Nom:@D.AR@^is    #;
-@D.AR@+N+IIDekl+Gen:@D.AR@^a     #;
+@D.AR@+N+IIDekl+Gen:@D.AR@@P.MIJA.ON@^a     #;
 @D.AR@+N+IIDekl+Dat:@D.AR@^im    #;
 @D.AR@+N+IIDekl+Aku:@D.AR@^i     #;
 @R.AR@+N+IIDekl+Ins:@R.AR@^i     #;

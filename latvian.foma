@@ -4,25 +4,11 @@ define V [a | e | i | o | u ];
 read lexc latvian.lexc
 define Lexicon;
 
-# Consonant doubling: 1-letter consonant doubled before -ing/-ed (beg/begging)
-define LLidzskanuMija l -> ļ || _ "^" a;
+# L līdzskaņu mija II deklinācijas ģenitīvā
+define LLidzskanuMija l -> ļ || _ "@D.AR@" "@P.MIJA.ON@" "^" a;
 
-
-# Consonant doubling: 1-letter consonant doubled before -ing/-ed (beg/begging)
-define ConsonantDoubling g -> g g || _ "^" [i n g | e d ];
-
-# E deletion: silent e dropped before -ing and -ed (make/making)
-define EDeletion e -> 0 || _ "^" [ i n g | e d ] ;
-
-# E insertion e added after -s, -z, -x, -ch, -sh before s (watch/watches)
-define EInsertion [..] -> e || s | z | x | c h | s h _ "^" s ;
-
-# Y replacement: -y changes to -ie before -s, -i before -ed (try/tries) 
-define YReplacement y -> i e || _ "^" s    ,, 
-                    y -> i   || _ "^" e d  ;
-
-# K insertion: verbs ending with vowel + -c add -k (panic/panicked)
-define KInsertion [..] -> k || V c _ "^" [e d | i n g];
+# B līdzskaņu mija II deklinācijas ģenitīvā
+define BLidzskanuMija b -> bj || _ "@D.AR@" "@P.MIJA.ON@" "^" a;
 
 # Spaces: change _ to " "
 define Spaces "_" -> " ";
@@ -32,10 +18,6 @@ define Cleanup "^" -> 0;
 
 regex Lexicon .o. 
 	  LLidzskanuMija .o. 
-      ConsonantDoubling .o. 
-      EDeletion .o. 
-      EInsertion .o. 
-      YReplacement .o. 
-      KInsertion .o. 
+      BLidzskanuMija .o. 
 	  Spaces .o. 
       Cleanup;
