@@ -1,0 +1,256 @@
+digraph A {
+rankdir = LR;
+node [shape=circle,style=filled] 0
+node [shape=circle,style=filled] 1
+node [shape=circle,style=filled] 2
+node [shape=circle,style=filled] 3
+node [shape=circle,style=filled] 4
+node [shape=circle,style=filled] 5
+node [shape=circle,style=filled] 6
+node [shape=circle,style=filled] 7
+node [shape=circle,style=filled] 8
+node [shape=circle,style=filled] 9
+node [shape=circle,style=filled] 10
+node [shape=circle,style=filled] 11
+node [shape=circle,style=filled] 12
+node [shape=circle,style=filled] 13
+node [shape=circle,style=filled] 14
+node [shape=circle,style=filled] 15
+node [shape=circle,style=filled] 16
+node [shape=circle,style=filled] 17
+node [shape=circle,style=filled] 18
+node [shape=circle,style=filled] 19
+node [shape=circle,style=filled] 20
+node [shape=circle,style=filled] 21
+node [shape=circle,style=filled] 22
+node [shape=circle,style=filled] 23
+node [shape=circle,style=filled] 24
+node [shape=circle,style=filled] 25
+node [shape=circle,style=filled] 26
+node [shape=circle,style=filled] 27
+node [shape=circle,style=filled] 28
+node [shape=circle,style=filled] 29
+node [shape=circle,style=filled] 30
+node [shape=circle,style=filled] 31
+node [shape=circle,style=filled] 32
+node [shape=circle,style=filled] 33
+node [shape=circle,style=filled] 34
+node [shape=circle,style=filled] 35
+node [shape=circle,style=filled] 36
+node [shape=circle,style=filled] 37
+node [shape=circle,style=filled] 38
+node [shape=circle,style=filled] 39
+node [shape=circle,style=filled] 40
+node [shape=circle,style=filled] 41
+node [shape=circle,style=filled] 42
+node [shape=circle,style=filled] 43
+node [shape=circle,style=filled] 44
+node [shape=circle,style=filled] 45
+node [shape=circle,style=filled] 46
+node [shape=circle,style=filled] 47
+node [shape=circle,style=filled] 48
+node [shape=circle,style=filled] 49
+node [shape=circle,style=filled] 50
+node [shape=circle,style=filled] 51
+node [shape=circle,style=filled] 52
+node [shape=circle,style=filled] 53
+node [shape=circle,style=filled] 54
+node [shape=circle,style=filled] 55
+node [shape=circle,style=filled] 56
+node [shape=circle,style=filled] 57
+node [shape=circle,style=filled] 58
+node [shape=circle,style=filled] 59
+node [shape=circle,style=filled] 60
+node [shape=circle,style=filled] 61
+node [shape=circle,style=filled] 62
+node [shape=circle,style=filled] 63
+node [shape=circle,style=filled] 64
+node [shape=circle,style=filled] 65
+node [shape=circle,style=filled] 66
+node [shape=circle,style=filled] 67
+node [shape=circle,style=filled] 68
+node [shape=circle,style=filled] 69
+node [shape=circle,style=filled] 70
+node [shape=circle,style=filled] 71
+node [shape=circle,style=filled] 72
+node [shape=circle,style=filled] 73
+node [shape=circle,style=filled] 74
+node [shape=circle,style=filled] 75
+node [shape=circle,style=filled] 76
+node [shape=circle,style=filled] 77
+node [shape=circle,style=filled] 78
+node [shape=circle,style=filled] 79
+node [shape=circle,style=filled] 80
+node [shape=circle,style=filled] 81
+node [shape=circle,style=filled] 82
+node [shape=circle,style=filled] 83
+node [shape=circle,style=filled] 84
+node [shape=circle,style=filled] 85
+node [shape=circle,style=filled] 86
+node [shape=circle,style=filled] 87
+node [shape=circle,style=filled] 88
+node [shape=circle,style=filled] 89
+node [shape=circle,style=filled] 90
+node [shape=circle,style=filled] 91
+node [shape=circle,style=filled] 92
+node [shape=circle,style=filled] 93
+node [shape=circle,style=filled] 94
+node [shape=circle,style=filled] 95
+node [shape=circle,style=filled] 96
+node [shape=circle,style=filled] 97
+node [shape=doublecircle,style=filled] 98
+0 -> 67 [label="k "];
+0 -> 59 [label="d "];
+0 -> 49 [label="l "];
+0 -> 28 [label="s "];
+0 -> 21 [label="g "];
+0 -> 18 [label="n "];
+0 -> 16 [label="e "];
+0 -> 13 [label="b "];
+0 -> 9 [label="p "];
+0 -> 7 [label="v "];
+0 -> 5 [label="m "];
+0 -> 1 [label="@P.AR.ON@ "];
+1 -> 2 [label="<+AR:a> "];
+2 -> 3 [label="<0:r> "];
+3 -> 4 [label="<0: > "];
+4 -> 67 [label="k "];
+4 -> 59 [label="d "];
+4 -> 49 [label="l "];
+4 -> 28 [label="s "];
+4 -> 21 [label="g "];
+4 -> 18 [label="n "];
+4 -> 16 [label="e "];
+4 -> 13 [label="b "];
+4 -> 9 [label="p "];
+4 -> 7 [label="v "];
+4 -> 5 [label="m "];
+5 -> 52 [label="e "];
+5 -> 6 [label="ā "];
+6 -> 62 [label="j "];
+7 -> 8 [label="a "];
+8 -> 62 [label="r "];
+9 -> 11 [label="r "];
+9 -> 10 [label="i "];
+10 -> 32 [label="l "];
+11 -> 12 [label="ā "];
+12 -> 69 [label="t "];
+13 -> 14 [label="r "];
+14 -> 15 [label="ā "];
+15 -> 26 [label="l "];
+15 -> 24 [label="<l:ļ> "];
+16 -> 17 [label="g "];
+17 -> 80 [label="l "];
+18 -> 19 [label="a "];
+19 -> 20 [label="k "];
+20 -> 32 [label="t "];
+21 -> 22 [label="u "];
+22 -> 23 [label="l "];
+23 -> 26 [label="b "];
+23 -> 24 [label="<b:bj> "];
+24 -> 25 [label="@D.AR@ "];
+25 -> 43 [label="<+N:@P.MIJA.ON@>\n"];
+26 -> 47 [label="@R.AR@ "];
+26 -> 27 [label="@D.AR@ "];
+27 -> 45 [label="<+N:0> "];
+28 -> 39 [label="k "];
+28 -> 30 [label="i "];
+28 -> 29 [label="o "];
+29 -> 69 [label="l "];
+30 -> 31 [label="r "];
+31 -> 32 [label="d "];
+32 -> 37 [label="@R.AR@ "];
+32 -> 33 [label="@D.AR@ "];
+33 -> 34 [label="<+N:0> "];
+34 -> 36 [label="<+VIDekl:i> "];
+34 -> 87 [label="<+VIDekl:ī> "];
+34 -> 35 [label="<+VIDekl:s> "];
+35 -> 84 [label="<+:0> "];
+35 -> 98 [label="<+Nom:0> "];
+36 -> 98 [label="<+Dat:j> "];
+36 -> 89 [label="<+:0> "];
+37 -> 38 [label="<+N:0> "];
+38 -> 94 [label="<+VIDekl:i> "];
+39 -> 40 [label="a "];
+40 -> 41 [label="p "];
+41 -> 47 [label="@R.AR@ "];
+41 -> 42 [label="@D.AR@ "];
+42 -> 45 [label="<+N:0> "];
+42 -> 43 [label="<+N:@P.MIJA.ON@>\n"];
+43 -> 44 [label="<+IIDekl:0> "];
+44 -> 84 [label="<+:a> "];
+45 -> 46 [label="<+IIDekl:i> "];
+45 -> 87 [label="<+IIDekl:ī> "];
+46 -> 98 [label="<+Dat:m> <+Nom:s>\n"];
+46 -> 89 [label="<+:0> "];
+47 -> 48 [label="<+N:0> "];
+48 -> 94 [label="<+IIDekl:i> "];
+49 -> 52 [label="e "];
+49 -> 50 [label="i "];
+50 -> 51 [label="e "];
+51 -> 53 [label="t "];
+52 -> 53 [label="d "];
+53 -> 57 [label="@R.AR@ "];
+53 -> 54 [label="@D.AR@ "];
+54 -> 55 [label="<+N:0> "];
+55 -> 56 [label="<+IIIDekl:u> "];
+55 -> 87 [label="<+IIIDekl:ū>\n"];
+56 -> 84 [label="<+:s> "];
+56 -> 98 [label="<+Dat:m> <+Nom:s>\n"];
+56 -> 89 [label="<+:0> "];
+57 -> 58 [label="<+N:0> "];
+58 -> 94 [label="<+IIIDekl:u> "];
+59 -> 60 [label="i "];
+60 -> 61 [label="e "];
+61 -> 62 [label="n "];
+62 -> 65 [label="@R.AR@ "];
+62 -> 63 [label="@D.AR@ "];
+63 -> 64 [label="<+N:0> "];
+64 -> 88 [label="<+IVDekl:u> "];
+64 -> 87 [label="<+IVDekl:ā> "];
+64 -> 83 [label="<+IVDekl:a> "];
+65 -> 66 [label="<+N:0> "];
+66 -> 94 [label="<+IVDekl:u> "];
+67 -> 78 [label="r "];
+67 -> 76 [label="l "];
+67 -> 68 [label="o "];
+68 -> 69 [label="k "];
+69 -> 74 [label="@R.AR@ "];
+69 -> 70 [label="@D.AR@ "];
+70 -> 71 [label="<+N:0> "];
+71 -> 88 [label="<+IDekl:u> "];
+71 -> 87 [label="<+IDekl:ā> "];
+71 -> 73 [label="<+IDekl:a> "];
+71 -> 72 [label="<+IDekl:s> "];
+72 -> 98 [label="<+Nom:0> "];
+73 -> 98 [label="<+Dat:m> "];
+73 -> 84 [label="<+:0> "];
+74 -> 75 [label="<+N:0> "];
+75 -> 94 [label="<+IDekl:u> "];
+76 -> 77 [label="a "];
+77 -> 80 [label="s "];
+78 -> 79 [label="ū "];
+79 -> 80 [label="z "];
+80 -> 92 [label="@R.AR@ "];
+80 -> 81 [label="@D.AR@ "];
+81 -> 82 [label="<+N:0> "];
+82 -> 88 [label="<+VDekl:i> "];
+82 -> 87 [label="<+VDekl:ē> "];
+82 -> 83 [label="<+VDekl:e> "];
+83 -> 98 [label="<+Dat:i> <+Nom:0>\n"];
+83 -> 84 [label="<+:s> "];
+84 -> 85 [label="<G:0> "];
+85 -> 86 [label="<e:0> "];
+86 -> 98 [label="<n:0> "];
+87 -> 98 [label="<+Loc:0> "];
+88 -> 89 [label="<+:0> "];
+89 -> 90 [label="<A:0> "];
+90 -> 91 [label="<k:0> "];
+91 -> 98 [label="<u:0> "];
+92 -> 93 [label="<+N:0> "];
+93 -> 94 [label="<+VDekl:i> "];
+94 -> 95 [label="<+:0> "];
+95 -> 96 [label="<I:0> "];
+96 -> 97 [label="<n:0> "];
+97 -> 98 [label="<s:0> "];
+}

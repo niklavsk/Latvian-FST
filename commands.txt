@@ -1,0 +1,3 @@
+print dot >mylex
+
+"C:\Program Files\Graphviz\bin\dot" -Tpng -o output.png mylex      
