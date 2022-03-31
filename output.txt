@@ -1,0 +1,240 @@
+krūz+N+VDekl+Loc+Dsk	krūzēs
+krūz+N+VDekl+Dat+Dsk	krūzēm
+krūz+N+VDekl+Loc	krūzē
+krūz+N+VDekl+Gen+Dsk	krūzu
+krūz+N+VDekl+Aku+Dsk	krūzes
+krūz+N+VDekl+Nom+Dsk	krūzes
+krūz+N+VDekl+Dat	krūzei
+krūz+N+VDekl+Gen	krūzes
+krūz+N+VDekl+Nom	krūze
+krūz+N+VDekl+Aku	krūzi
+krīt+N+IDekl+Dat+Dsk	krītiem
+krīt+N+IDekl+Nom+Dsk	krīti
+krīt+N+IDekl+Loc+Dsk	krītos
+krīt+N+IDekl+Aku+Dsk	krītus
+krīt+N+IDekl+Gen+Dsk	krītu
+krīt+N+IDekl+Aku	krītu
+krīt+N+IDekl+Loc	krītā
+krīt+N+IDekl+Dat	krītam
+krīt+N+IDekl+Gen	krīta
+krīt+N+IDekl+Nom	krīts
+krēsl+N+IDekl+Dat+Dsk	krēsliem
+krēsl+N+IDekl+Nom+Dsk	krēsli
+krēsl+N+IDekl+Loc+Dsk	krēslos
+krēsl+N+IDekl+Aku+Dsk	krēslus
+krēsl+N+IDekl+Gen+Dsk	krēslu
+krēsl+N+IDekl+Aku	krēslu
+krēsl+N+IDekl+Loc	krēslā
+krēsl+N+IDekl+Dat	krēslam
+krēsl+N+IDekl+Gen	krēsla
+krēsl+N+IDekl+Nom	krēsls
+klas+N+VDekl+Loc+Dsk	klasēs
+klas+N+VDekl+Dat+Dsk	klasēm
+klas+N+VDekl+Loc	klasē
+klas+N+VDekl+Gen+Dsk	klasu
+klas+N+VDekl+Aku+Dsk	klases
+klas+N+VDekl+Nom+Dsk	klases
+klas+N+VDekl+Dat	klasei
+klas+N+VDekl+Gen	klases
+klas+N+VDekl+Nom	klase
+klas+N+VDekl+Aku	klasi
+kurv+N+IIDekl+Dat	kurvim
+kurv+N+IIDekl+Nom	kurvis
+kurv+N+IIDekl+Aku	kurvi
+kurv+N+IIDekl+Loc	kurvī
+kurv+N+IIDekl+Loc+Dsk	kurvjos
+kurv+N+IIDekl+Aku+Dsk	kurvjus
+kurv+N+IIDekl+Dat+Dsk	kurvjiem
+kurv+N+IIDekl+Gen+Dsk	kurvju
+kurv+N+IIDekl+Nom+Dsk	kurvji
+kurv+N+IIDekl+Gen	kurvja
+dien+N+IVDekl+Loc+Dsk	dienās
+dien+N+IVDekl+Dat+Dsk	dienām
+dien+N+IVDekl+Loc	dienā
+dien+N+IVDekl+Gen+Dsk	dienu
+dien+N+IVDekl+Aku	dienu
+dien+N+IVDekl+Aku+Dsk	dienas
+dien+N+IVDekl+Nom+Dsk	dienas
+dien+N+IVDekl+Dat	dienai
+dien+N+IVDekl+Gen	dienas
+dien+N+IVDekl+Nom	diena
+laim+N+VDekl+Loc+Dsk	laimēs
+laim+N+VDekl+Dat+Dsk	laimēm
+laim+N+VDekl+Loc	laimē
+laim+N+VDekl+Gen+Dsk	laimu
+laim+N+VDekl+Aku+Dsk	laimes
+laim+N+VDekl+Nom+Dsk	laimes
+laim+N+VDekl+Dat	laimei
+laim+N+VDekl+Gen	laimes
+laim+N+VDekl+Nom	laime
+laim+N+VDekl+Aku	laimi
+liet+N+IIIDekl+Dat+Dsk	lietiem
+liet+N+IIIDekl+Nom+Dsk	lieti
+liet+N+IIIDekl+Loc+Dsk	lietos
+liet+N+IIIDekl+Dat	lietum
+liet+N+IIIDekl+Aku+Dsk	lietus
+liet+N+IIIDekl+Nom	lietus
+liet+N+IIIDekl+Gen	lietus
+liet+N+IIIDekl+Gen+Dsk	lietu
+liet+N+IIIDekl+Aku	lietu
+liet+N+IIIDekl+Loc	lietū
+led+N+IIIDekl+Dat+Dsk	lediem
+led+N+IIIDekl+Nom+Dsk	ledi
+led+N+IIIDekl+Loc+Dsk	ledos
+led+N+IIIDekl+Dat	ledum
+led+N+IIIDekl+Aku+Dsk	ledus
+led+N+IIIDekl+Nom	ledus
+led+N+IIIDekl+Gen	ledus
+led+N+IIIDekl+Gen+Dsk	ledu
+led+N+IIIDekl+Aku	ledu
+led+N+IIIDekl+Loc	ledū
+skap+N+IIDekl+Dat	skapim
+skap+N+IIDekl+Nom	skapis
+skap+N+IIDekl+Aku	skapi
+skap+N+IIDekl+Loc	skapī
+skap+N+IIDekl+Loc+Dsk	skapjos
+skap+N+IIDekl+Aku+Dsk	skapjus
+skap+N+IIDekl+Dat+Dsk	skapjiem
+skap+N+IIDekl+Gen+Dsk	skapju
+skap+N+IIDekl+Nom+Dsk	skapji
+skap+N+IIDekl+Gen	skapja
+sird+N+VIDekl+Loc+Dsk	sirdīs
+sird+N+VIDekl+Dat+Dsk	sirdīm
+sird+N+VIDekl+Loc	sirdī
+sird+N+VIDekl+Gen+Dsk	sirdu
+sird+N+VIDekl+Aku+Dsk	sirdis
+sird+N+VIDekl+Nom+Dsk	sirdis
+sird+N+VIDekl+Dat	sirdij
+sird+N+VIDekl+Aku	sirdi
+sird+N+VIDekl+Gen	sirds
+sird+N+VIDekl+Nom	sirds
+med+N+IIIDekl+Dat+Dsk	mediem
+med+N+IIIDekl+Nom+Dsk	medi
+med+N+IIIDekl+Loc+Dsk	medos
+med+N+IIIDekl+Dat	medum
+med+N+IIIDekl+Aku+Dsk	medus
+med+N+IIIDekl+Nom	medus
+med+N+IIIDekl+Gen	medus
+med+N+IIIDekl+Gen+Dsk	medu
+med+N+IIIDekl+Aku	medu
+med+N+IIIDekl+Loc	medū
+māj+N+IVDekl+Loc+Dsk	mājās
+māj+N+IVDekl+Dat+Dsk	mājām
+māj+N+IVDekl+Loc	mājā
+māj+N+IVDekl+Gen+Dsk	māju
+māj+N+IVDekl+Aku	māju
+māj+N+IVDekl+Aku+Dsk	mājas
+māj+N+IVDekl+Nom+Dsk	mājas
+māj+N+IVDekl+Dat	mājai
+māj+N+IVDekl+Gen	mājas
+māj+N+IVDekl+Nom	māja
+nakt+N+VIDekl+Loc+Dsk	naktīs
+nakt+N+VIDekl+Dat+Dsk	naktīm
+nakt+N+VIDekl+Loc	naktī
+nakt+N+VIDekl+Gen+Dsk	naktu
+nakt+N+VIDekl+Aku+Dsk	naktis
+nakt+N+VIDekl+Nom+Dsk	naktis
+nakt+N+VIDekl+Dat	naktij
+nakt+N+VIDekl+Aku	nakti
+nakt+N+VIDekl+Gen	nakts
+nakt+N+VIDekl+Nom	nakts
+var+N+IVDekl+Loc+Dsk	varās
+var+N+IVDekl+Dat+Dsk	varām
+var+N+IVDekl+Loc	varā
+var+N+IVDekl+Gen+Dsk	varu
+var+N+IVDekl+Aku	varu
+var+N+IVDekl+Aku+Dsk	varas
+var+N+IVDekl+Nom+Dsk	varas
+var+N+IVDekl+Dat	varai
+var+N+IVDekl+Gen	varas
+var+N+IVDekl+Nom	vara
+brāl+N+IIDekl+Dat	brālim
+brāl+N+IIDekl+Nom	brālis
+brāl+N+IIDekl+Aku	brāli
+brāl+N+IIDekl+Loc	brālī
+brāl+N+IIDekl+Loc+Dsk	brāļos
+brāl+N+IIDekl+Aku+Dsk	brāļus
+brāl+N+IIDekl+Dat+Dsk	brāļiem
+brāl+N+IIDekl+Gen+Dsk	brāļu
+brāl+N+IIDekl+Nom+Dsk	brāļi
+brāl+N+IIDekl+Gen	brāļa
+prāt+N+IDekl+Dat+Dsk	prātiem
+prāt+N+IDekl+Nom+Dsk	prāti
+prāt+N+IDekl+Loc+Dsk	prātos
+prāt+N+IDekl+Aku+Dsk	prātus
+prāt+N+IDekl+Gen+Dsk	prātu
+prāt+N+IDekl+Aku	prātu
+prāt+N+IDekl+Loc	prātā
+prāt+N+IDekl+Dat	prātam
+prāt+N+IDekl+Gen	prāta
+prāt+N+IDekl+Nom	prāts
+pil+N+VIDekl+Loc+Dsk	pilīs
+pil+N+VIDekl+Dat+Dsk	pilīm
+pil+N+VIDekl+Loc	pilī
+pil+N+VIDekl+Gen+Dsk	pilu
+pil+N+VIDekl+Aku+Dsk	pilis
+pil+N+VIDekl+Nom+Dsk	pilis
+pil+N+VIDekl+Dat	pilij
+pil+N+VIDekl+Aku	pili
+pil+N+VIDekl+Gen	pils
+pil+N+VIDekl+Nom	pils
+ūden+N+IIDekl+Dat	ūdenim
+ūden+N+IIDekl+Nom	ūdenis
+ūden+N+IIDekl+Aku	ūdeni
+ūden+N+IIDekl+Loc	ūdenī
+ūden+N+IIDekl+Loc+Dsk	ūdenos
+ūden+N+IIDekl+Aku+Dsk	ūdenus
+ūden+N+IIDekl+Dat+Dsk	ūdeniem
+ūden+N+IIDekl+Gen+Dsk	ūdenu
+ūden+N+IIDekl+Nom+Dsk	ūdeni
+ūden+N+IIDekl+Gen	ūdena
+gulb+N+IIDekl+Dat	gulbim
+gulb+N+IIDekl+Nom	gulbis
+gulb+N+IIDekl+Aku	gulbi
+gulb+N+IIDekl+Loc	gulbī
+gulb+N+IIDekl+Loc+Dsk	gulbjos
+gulb+N+IIDekl+Aku+Dsk	gulbjus
+gulb+N+IIDekl+Dat+Dsk	gulbjiem
+gulb+N+IIDekl+Gen+Dsk	gulbju
+gulb+N+IIDekl+Nom+Dsk	gulbji
+gulb+N+IIDekl+Gen	gulbja
++ARkrūz+N+VDekl+Ins+Dsk	ar krūzēm
++ARkrūz+N+VDekl+Ins	ar krūzi
++ARkrīt+N+IDekl+Ins+Dsk	ar krītiem
++ARkrīt+N+IDekl+Ins	ar krītu
++ARkrēsl+N+IDekl+Ins+Dsk	ar krēsliem
++ARkrēsl+N+IDekl+Ins	ar krēslu
++ARklas+N+VDekl+Ins+Dsk	ar klasēm
++ARklas+N+VDekl+Ins	ar klasi
++ARkurv+N+IIDekl+Ins	ar kurvi
++ARkurv+N+IIDekl+Ins+Dsk	ar kurvjiem
++ARdien+N+IVDekl+Ins+Dsk	ar dienām
++ARdien+N+IVDekl+Ins	ar dienu
++ARlaim+N+VDekl+Ins+Dsk	ar laimēm
++ARlaim+N+VDekl+Ins	ar laimi
++ARliet+N+IIIDekl+Ins+Dsk	ar lietiem
++ARliet+N+IIIDekl+Ins	ar lietu
++ARled+N+IIIDekl+Ins+Dsk	ar lediem
++ARled+N+IIIDekl+Ins	ar ledu
++ARskap+N+IIDekl+Ins	ar skapi
++ARskap+N+IIDekl+Ins+Dsk	ar skapjiem
++ARsird+N+VIDekl+Ins+Dsk	ar sirdīm
++ARsird+N+VIDekl+Ins	ar sirdi
++ARmed+N+IIIDekl+Ins+Dsk	ar mediem
++ARmed+N+IIIDekl+Ins	ar medu
++ARmāj+N+IVDekl+Ins+Dsk	ar mājām
++ARmāj+N+IVDekl+Ins	ar māju
++ARnakt+N+VIDekl+Ins+Dsk	ar naktīm
++ARnakt+N+VIDekl+Ins	ar nakti
++ARvar+N+IVDekl+Ins+Dsk	ar varām
++ARvar+N+IVDekl+Ins	ar varu
++ARbrāl+N+IIDekl+Ins	ar brāli
++ARbrāl+N+IIDekl+Ins+Dsk	ar brāļiem
++ARprāt+N+IDekl+Ins+Dsk	ar prātiem
++ARprāt+N+IDekl+Ins	ar prātu
++ARpil+N+VIDekl+Ins+Dsk	ar pilīm
++ARpil+N+VIDekl+Ins	ar pili
++ARūden+N+IIDekl+Ins	ar ūdeni
++ARūden+N+IIDekl+Ins+Dsk	ar ūdeniem
++ARgulb+N+IIDekl+Ins	ar gulbi
++ARgulb+N+IIDekl+Ins+Dsk	ar gulbjiem

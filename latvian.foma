@@ -4,11 +4,20 @@ define V [a | e | i | o | u ];
 read lexc latvian.lexc
 define Lexicon;
 
-# L līdzskaņu mija II deklinācijas ģenitīvā
-define LLidzskanuMija l -> ļ || _ "@D.AR@" "@P.MIJA.ON@" "^" a;
+# II deklinācijas izņēmumgadījums - ūdens
+# define IIDeklIzn i -> 0 || [ū d e n] ["@D.AR@" | "@R.AR@"] "@P.MIJA.ON@" "^" [i s];
 
-# B līdzskaņu mija II deklinācijas ģenitīvā
-define BLidzskanuMija b -> bj || _ "@D.AR@" "@P.MIJA.ON@" "^" a;
+# B līdzskaņu mija II deklinācijā
+define BLidzskanuMija b -> bj || _ ["@D.AR@" | "@R.AR@"] "@P.MIJA.ON@" "^" *;
+
+# L līdzskaņu mija II deklinācijā
+define LLidzskanuMija l -> ļ || _ ["@D.AR@" | "@R.AR@"] "@P.MIJA.ON@" "^" *;
+
+# P līdzskaņu mija II deklinācijā
+define PLidzskanuMija [..] -> j || p _ ["@D.AR@" | "@R.AR@"] "@P.MIJA.ON@" "^" *;
+
+# V līdzskaņu mija II deklinācijā
+define VLidzskanuMija [..] -> j || v _ ["@D.AR@" | "@R.AR@"] "@P.MIJA.ON@" "^" *;
 
 # Spaces: change _ to " "
 define Spaces "_" -> " ";
@@ -16,8 +25,10 @@ define Spaces "_" -> " ";
 # Cleanup: remove morpheme boundaries
 define Cleanup "^" -> 0;
 
-regex Lexicon .o. 
-	  LLidzskanuMija .o. 
-      BLidzskanuMija .o. 
+regex Lexicon .o.
+	  BLidzskanuMija .o.
+	  LLidzskanuMija .o.  
+	  PLidzskanuMija .o. 
+	  VLidzskanuMija .o. 
 	  Spaces .o. 
       Cleanup;

@@ -1,4 +1,4 @@
-Multichar_Symbols +N +AR +IDekl +IIIDekl +IIDekl +IVDekl +VDekl +VIDekl +Nom +Dat +Loc @P.AR.ON@ @D.AR@ @R.AR@ @P.MIJA.ON@
+Multichar_Symbols +N +AR +IDekl +IIIDekl +IIDekl +IVDekl +VDekl +VIDekl +Nom +Gen +Dat +Aku +Ins +Loc +Dsk @P.AR.ON@ @D.AR@ @R.AR@ @P.MIJA.ON@
 
 LEXICON Root
 
@@ -11,19 +11,21 @@ LEXICON Prefix
 
 LEXICON Noun
 
-kok       IDekl;
-sol       IDekl;
+krēsl     IDekl;
+krīt      IDekl;
 prāt      IDekl;
+ūden      IIDekl;
 skap      IIDekl;
 brāl      IIDekl;
 gulb      IIDekl;
+kurv      IIDekl;
 med       IIIDekl;
 led       IIIDekl;
 liet      IIIDekl;
 māj       IVDekl;
 dien      IVDekl;
 var       IVDekl;
-egl       VDekl;
+laim      VDekl;
 krūz      VDekl;
 klas      VDekl;
 pil       VIDekl;
@@ -38,6 +40,7 @@ LEXICON IDekl
 @D.AR@+N+IDekl+Aku:@D.AR@^u      #;
 @R.AR@+N+IDekl+Ins:@R.AR@^u      #;
 @D.AR@+N+IDekl+Loc:@D.AR@^ā      #;
+IDeklDsk ;
 
 LEXICON IIDekl
 
@@ -47,6 +50,7 @@ LEXICON IIDekl
 @D.AR@+N+IIDekl+Aku:@D.AR@^i     #;
 @R.AR@+N+IIDekl+Ins:@R.AR@^i     #;
 @D.AR@+N+IIDekl+Loc:@D.AR@^ī     #;
+IIDeklDsk ;
 
 LEXICON IIIDekl
 
@@ -56,6 +60,7 @@ LEXICON IIIDekl
 @D.AR@+N+IIIDekl+Aku:@D.AR@^u    #;
 @R.AR@+N+IIIDekl+Ins:@R.AR@^u    #;
 @D.AR@+N+IIIDekl+Loc:@D.AR@^ū    #;
+IIIDeklDsk ;
 
 LEXICON IVDekl
 
@@ -65,6 +70,7 @@ LEXICON IVDekl
 @D.AR@+N+IVDekl+Aku:@D.AR@^u     #;
 @R.AR@+N+IVDekl+Ins:@R.AR@^u     #;
 @D.AR@+N+IVDekl+Loc:@D.AR@^ā     #;
+IVDeklDsk ;
 
 LEXICON VDekl
 
@@ -74,6 +80,7 @@ LEXICON VDekl
 @D.AR@+N+VDekl+Aku:@D.AR@^i      #;
 @R.AR@+N+VDekl+Ins:@R.AR@^i      #;
 @D.AR@+N+VDekl+Loc:@D.AR@^ē      #;
+VDeklDsk ;
 
 LEXICON VIDekl
 
@@ -83,3 +90,58 @@ LEXICON VIDekl
 @D.AR@+N+VIDekl+Aku:@D.AR@^i     #;
 @R.AR@+N+VIDekl+Ins:@R.AR@^i     #;
 @D.AR@+N+VIDekl+Loc:@D.AR@^ī     #;
+VIDeklDsk ;
+
+LEXICON IDeklDsk
+
+@D.AR@+N+IDekl+Nom+Dsk:@D.AR@^i        #;
+@D.AR@+N+IDekl+Gen+Dsk:@D.AR@^u        #;
+@D.AR@+N+IDekl+Dat+Dsk:@D.AR@^iem      #;
+@D.AR@+N+IDekl+Aku+Dsk:@D.AR@^us       #;
+@R.AR@+N+IDekl+Ins+Dsk:@R.AR@^iem      #;
+@D.AR@+N+IDekl+Loc+Dsk:@D.AR@^os       #;
+
+LEXICON IIDeklDsk
+
+@D.AR@+N+IIDekl+Nom+Dsk:@D.AR@@P.MIJA.ON@^i      #;
+@D.AR@+N+IIDekl+Gen+Dsk:@D.AR@@P.MIJA.ON@^u      #;
+@D.AR@+N+IIDekl+Dat+Dsk:@D.AR@@P.MIJA.ON@^iem    #;
+@D.AR@+N+IIDekl+Aku+Dsk:@D.AR@@P.MIJA.ON@^us     #;
+@R.AR@+N+IIDekl+Ins+Dsk:@R.AR@@P.MIJA.ON@^iem    #;
+@D.AR@+N+IIDekl+Loc+Dsk:@D.AR@@P.MIJA.ON@^os     #;
+
+LEXICON IIIDeklDsk
+
+@D.AR@+N+IIIDekl+Nom+Dsk:@D.AR@^i      #;
+@D.AR@+N+IIIDekl+Gen+Dsk:@D.AR@^u      #;
+@D.AR@+N+IIIDekl+Dat+Dsk:@D.AR@^iem    #;
+@D.AR@+N+IIIDekl+Aku+Dsk:@D.AR@^us     #;
+@R.AR@+N+IIIDekl+Ins+Dsk:@R.AR@^iem    #;
+@D.AR@+N+IIIDekl+Loc+Dsk:@D.AR@^os     #;
+
+LEXICON IVDeklDsk
+
+@D.AR@+N+IVDekl+Nom+Dsk:@D.AR@^as      #;
+@D.AR@+N+IVDekl+Gen+Dsk:@D.AR@^u       #;
+@D.AR@+N+IVDekl+Dat+Dsk:@D.AR@^ām      #;
+@D.AR@+N+IVDekl+Aku+Dsk:@D.AR@^as      #;
+@R.AR@+N+IVDekl+Ins+Dsk:@R.AR@^ām      #;
+@D.AR@+N+IVDekl+Loc+Dsk:@D.AR@^ās      #;
+
+LEXICON VDeklDsk
+
+@D.AR@+N+VDekl+Nom+Dsk:@D.AR@^es       #;
+@D.AR@+N+VDekl+Gen+Dsk:@D.AR@^u        #;
+@D.AR@+N+VDekl+Dat+Dsk:@D.AR@^ēm       #;
+@D.AR@+N+VDekl+Aku+Dsk:@D.AR@^es       #;
+@R.AR@+N+VDekl+Ins+Dsk:@R.AR@^ēm       #;
+@D.AR@+N+VDekl+Loc+Dsk:@D.AR@^ēs       #;
+
+LEXICON VIDeklDsk
+
+@D.AR@+N+VIDekl+Nom+Dsk:@D.AR@^is      #;
+@D.AR@+N+VIDekl+Gen+Dsk:@D.AR@^u       #;
+@D.AR@+N+VIDekl+Dat+Dsk:@D.AR@^īm      #;
+@D.AR@+N+VIDekl+Aku+Dsk:@D.AR@^is      #;
+@R.AR@+N+VIDekl+Ins+Dsk:@R.AR@^īm      #;
+@D.AR@+N+VIDekl+Loc+Dsk:@D.AR@^īs      #;

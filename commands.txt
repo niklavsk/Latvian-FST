@@ -1,3 +1,4 @@
-print dot >mylex
-
+print dot > mylex
 "C:\Program Files\Graphviz\bin\dot" -Tpng -o output.png mylex      
+
+print pairs > output.txt
