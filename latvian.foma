@@ -1,6 +1,9 @@
 read lexc latvian.lexc
 define Lexicon;
 
+# Vārda ūdens izņēmums vienskatļa ģenitīvā
+define Exceptions [[{ūden} "@D.AR@" "+N" "+IIDekl" "+Gen" .x. {ūdens}]];
+
 # Vārda ūdens izņēmums vienskatļa nominatīvā
 define Udens i -> 0 || ū d e n ?* "^" _ s; 
 
@@ -19,12 +22,9 @@ define PLidzskanuMija [..] -> j || p _ ["@D.AR@" | "@R.AR@"] "@P.MIJA.ON@" "^" *
 # V līdzskaņu mija II deklinācijā
 define VLidzskanuMija [..] -> j || v _ ["@D.AR@" | "@R.AR@"] "@P.MIJA.ON@" "^" *;
 
-# Cleanup: remove morpheme boundaries
+# Ievieto atstarpi _ simbola vietā un noņem ^ simbolu
 define Cleanup "^" -> 0, 
 			   "_" -> " ";
-			   
-# Vārda ūdens izņēmums vienskatļa ģenitīvā
-define Exceptions [[{ūden} "@D.AR@" "+N" "+IIDekl" "+Gen" .x. {ūdens}]];
 
 regex Exceptions .P.
 	  Lexicon .o.
