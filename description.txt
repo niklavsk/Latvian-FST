@@ -1,0 +1,25 @@
+The grammar includes all noun declinations in Latvian as well as singular and plural word forms 
+in the nominatīvs, ģenitīvs, datīvs, akuzatīvs, instrumentālis un lokatīvs cases.
+
+Words included in the lexicon:
+I declination - krēsls, krīts, prāts
+II declination - ūdens, skapis, brālis, gulbis, kurvis
+III declination - medus, ledus, lietus
+IV declination - māja, diena, vara
+V declination - laime, krūze, klase
+VI declination - pils, sirds, nakts
+
+Additional rules are implemented for the II declination for the singular ģenitīvs case and all plural cases:
+b -> bj
+n -> ņ
+l -> ļ
+p -> pj
+v -> vj
+
+Exceptions:
+ūdenis -> ūdens (II declination singular nominatīvs)
+ūdeņa -> ūdens (II declination singular ģenitīvs)
+
+Output cleanup:
+The "^" symbol gets deleted (to improve readability)
+The "_" symbol gets replaced with a space (for the ar prefix in the instrumentālis case)
